@@ -1,0 +1,1 @@
+# analise-de-dados-financeiros-da-binance
